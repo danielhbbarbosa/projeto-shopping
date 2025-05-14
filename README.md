@@ -16,7 +16,7 @@
 <br>
 
 <h3>Desktop</h3>
-<img src="">
+<img src="https://github.com/danielhbbarbosa/projeto-shopping/blob/main/assets/desktop.png?raw=true" width: 100px>
 
 <h3>Mobile</h3>
-<img src="">
+<img src="https://github.com/danielhbbarbosa/projeto-shopping/blob/main/assets/mobile.png?raw=true">
